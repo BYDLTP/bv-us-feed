@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-09-19T00:00:00.000Z",
-  "generated_at": "2026-09-20T11:20:04.248Z",
+  "feed_extract_date": "2026-09-20T00:00:00.000Z",
+  "generated_at": "2026-09-21T11:19:49.966Z",
   "product_count": 366,
   "with_upc": 227,
   "with_mpn": 316,
@@ -603,8 +603,8 @@
       "model_numbers": [],
       "native_count": 132,
       "native_avg": 4.7424,
-      "syndicated_count": 192,
-      "syndicated_avg": 4.7708,
+      "syndicated_count": 193,
+      "syndicated_avg": 4.772,
       "removed": false
     },
     {
@@ -836,10 +836,10 @@
         "0752113001053"
       ],
       "model_numbers": [],
-      "native_count": 247,
-      "native_avg": 4.668,
-      "syndicated_count": 250,
-      "syndicated_avg": 4.672,
+      "native_count": 248,
+      "native_avg": 4.6653,
+      "syndicated_count": 251,
+      "syndicated_avg": 4.6693,
       "removed": false
     },
     {
@@ -4369,10 +4369,10 @@
         "0752113081314"
       ],
       "model_numbers": [],
-      "native_count": 60,
-      "native_avg": 4.8333,
-      "syndicated_count": 192,
-      "syndicated_avg": 4.7708,
+      "native_count": 61,
+      "native_avg": 4.8361,
+      "syndicated_count": 193,
+      "syndicated_avg": 4.772,
       "removed": false
     },
     {
@@ -5800,8 +5800,8 @@
       "model_numbers": [],
       "native_count": 42,
       "native_avg": 4.7619,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7528,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7055,10 +7055,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 18,
-      "native_avg": 4.7222,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7528,
+      "native_count": 19,
+      "native_avg": 4.7368,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7104,8 +7104,8 @@
       "model_numbers": [],
       "native_count": 6,
       "native_avg": 4.6667,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7528,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7151,8 +7151,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 4.6,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7528,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -9460,8 +9460,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 5,
-      "syndicated_count": 250,
-      "syndicated_avg": 4.672,
+      "syndicated_count": 251,
+      "syndicated_avg": 4.6693,
       "removed": false
     },
     {
