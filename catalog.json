@@ -1,10 +1,10 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-09-25T00:00:00.000Z",
-  "generated_at": "2026-09-26T11:18:26.458Z",
-  "product_count": 366,
-  "with_upc": 227,
+  "feed_extract_date": "2026-09-26T00:00:00.000Z",
+  "generated_at": "2026-09-27T11:20:44.984Z",
+  "product_count": 367,
+  "with_upc": 228,
   "with_mpn": 316,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
@@ -2361,10 +2361,10 @@
         "0752113105140"
       ],
       "model_numbers": [],
-      "native_count": 12,
-      "native_avg": 4.9167,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "native_count": 13,
+      "native_avg": 4.9231,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -2693,8 +2693,8 @@
       "model_numbers": [],
       "native_count": 23,
       "native_avg": 4.9565,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -2796,8 +2796,8 @@
       "model_numbers": [],
       "native_count": 15,
       "native_avg": 4.9333,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -2898,8 +2898,8 @@
       "model_numbers": [],
       "native_count": 9,
       "native_avg": 4.6667,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -3004,8 +3004,8 @@
       "model_numbers": [],
       "native_count": 18,
       "native_avg": 4.7778,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -3110,8 +3110,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 5,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -3213,8 +3213,8 @@
       "model_numbers": [],
       "native_count": 6,
       "native_avg": 5,
-      "syndicated_count": 122,
-      "syndicated_avg": 4.9098,
+      "syndicated_count": 123,
+      "syndicated_avg": 4.9106,
       "removed": false
     },
     {
@@ -4037,8 +4037,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -4082,8 +4082,8 @@
       "model_numbers": [],
       "native_count": 134,
       "native_avg": 4.9254,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -4276,8 +4276,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -4475,8 +4475,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 5,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -4519,8 +4519,8 @@
       "model_numbers": [],
       "native_count": 37,
       "native_avg": 4.6486,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -5347,10 +5347,10 @@
         "0752113404243"
       ],
       "model_numbers": [],
-      "native_count": 97,
-      "native_avg": 4.8763,
-      "syndicated_count": 342,
-      "syndicated_avg": 4.9211,
+      "native_count": 98,
+      "native_avg": 4.8775,
+      "syndicated_count": 343,
+      "syndicated_avg": 4.9213,
       "removed": false
     },
     {
@@ -5925,8 +5925,8 @@
       "model_numbers": [],
       "native_count": 55,
       "native_avg": 5,
-      "syndicated_count": 342,
-      "syndicated_avg": 4.9211,
+      "syndicated_count": 343,
+      "syndicated_avg": 4.9213,
       "removed": false
     },
     {
@@ -5969,8 +5969,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.4118,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -6009,8 +6009,8 @@
       "model_numbers": [],
       "native_count": 58,
       "native_avg": 4.9483,
-      "syndicated_count": 342,
-      "syndicated_avg": 4.9211,
+      "syndicated_count": 343,
+      "syndicated_avg": 4.9213,
       "removed": false
     },
     {
@@ -6053,8 +6053,8 @@
       "model_numbers": [],
       "native_count": 20,
       "native_avg": 4.9,
-      "syndicated_count": 674,
-      "syndicated_avg": 4.8427,
+      "syndicated_count": 675,
+      "syndicated_avg": 4.843,
       "removed": false
     },
     {
@@ -6092,8 +6092,8 @@
       "model_numbers": [],
       "native_count": 11,
       "native_avg": 4.7273,
-      "syndicated_count": 342,
-      "syndicated_avg": 4.9211,
+      "syndicated_count": 343,
+      "syndicated_avg": 4.9213,
       "removed": false
     },
     {
@@ -8695,8 +8695,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 5,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -9154,8 +9154,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -9256,8 +9256,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 100,
-      "syndicated_avg": 4.9,
+      "syndicated_count": 101,
+      "syndicated_avg": 4.901,
       "removed": false
     },
     {
@@ -9477,8 +9477,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -9528,8 +9528,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -9817,8 +9817,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -9987,8 +9987,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -10053,10 +10053,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 0,
-      "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "native_count": 1,
+      "native_avg": 5,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -10072,8 +10072,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 100,
-      "syndicated_avg": 4.9,
+      "syndicated_count": 101,
+      "syndicated_avg": 4.901,
       "removed": false
     },
     {
@@ -10327,8 +10327,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 584,
-      "syndicated_avg": 4.8527,
+      "syndicated_count": 585,
+      "syndicated_avg": 4.853,
       "removed": false
     },
     {
@@ -10412,8 +10412,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 100,
-      "syndicated_avg": 4.9,
+      "syndicated_count": 101,
+      "syndicated_avg": 4.901,
       "removed": false
     },
     {
@@ -11155,6 +11155,31 @@
       "native_count": 13,
       "native_avg": 5,
       "syndicated_count": 13,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
+      "product_id": "8664675221639",
+      "title": "14 X 12 Larkspur Metal Greenhouse",
+      "url": "https://www.backyarddiscovery.com/products/14x12-larkspur-metal-greenhouse",
+      "category": "Greenhouses",
+      "upcs": [
+        "752113484214",
+        "752113474215",
+        "752113494213",
+        "752113601420",
+        "752113691421",
+        "752113681422",
+        "752113404212"
+      ],
+      "mpns": [],
+      "eans": [
+        "0752113404212"
+      ],
+      "model_numbers": [],
+      "native_count": 1,
+      "native_avg": 5,
+      "syndicated_count": 1,
       "syndicated_avg": 5,
       "removed": false
     },
