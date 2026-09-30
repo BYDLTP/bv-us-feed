@@ -1,11 +1,11 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-09-28T00:00:00.000Z",
-  "generated_at": "2026-09-29T11:22:10.433Z",
-  "product_count": 367,
-  "with_upc": 228,
-  "with_mpn": 316,
+  "feed_extract_date": "2026-09-29T00:00:00.000Z",
+  "generated_at": "2026-09-30T11:21:55.103Z",
+  "product_count": 369,
+  "with_upc": 230,
+  "with_mpn": 318,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
     {
@@ -1140,10 +1140,10 @@
         "0752113865150"
       ],
       "model_numbers": [],
-      "native_count": 109,
-      "native_avg": 4.6606,
-      "syndicated_count": 109,
-      "syndicated_avg": 4.6606,
+      "native_count": 110,
+      "native_avg": 4.6636,
+      "syndicated_count": 110,
+      "syndicated_avg": 4.6636,
       "removed": false
     },
     {
@@ -1376,8 +1376,8 @@
       "model_numbers": [],
       "native_count": 143,
       "native_avg": 4.9091,
-      "syndicated_count": 802,
-      "syndicated_avg": 4.8928,
+      "syndicated_count": 803,
+      "syndicated_avg": 4.8929,
       "removed": false
     },
     {
@@ -3448,8 +3448,8 @@
       "model_numbers": [],
       "native_count": 251,
       "native_avg": 4.8845,
-      "syndicated_count": 802,
-      "syndicated_avg": 4.8928,
+      "syndicated_count": 803,
+      "syndicated_avg": 4.8929,
       "removed": false
     },
     {
@@ -3850,10 +3850,10 @@
         "0752113200159"
       ],
       "model_numbers": [],
-      "native_count": 29,
-      "native_avg": 4.8621,
-      "syndicated_count": 31,
-      "syndicated_avg": 4.871,
+      "native_count": 30,
+      "native_avg": 4.8667,
+      "syndicated_count": 32,
+      "syndicated_avg": 4.875,
       "removed": false
     },
     {
@@ -4037,8 +4037,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -4082,8 +4082,8 @@
       "model_numbers": [],
       "native_count": 134,
       "native_avg": 4.9254,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -4276,8 +4276,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -4475,8 +4475,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 5,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -4519,8 +4519,8 @@
       "model_numbers": [],
       "native_count": 37,
       "native_avg": 4.6486,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -4579,8 +4579,8 @@
       "model_numbers": [],
       "native_count": 112,
       "native_avg": 4.9821,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8972,
       "removed": false
     },
     {
@@ -4849,8 +4849,8 @@
       "model_numbers": [],
       "native_count": 75,
       "native_avg": 4.84,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8973,
       "removed": false
     },
     {
@@ -4957,8 +4957,8 @@
       "model_numbers": [],
       "native_count": 19,
       "native_avg": 4.9474,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8972,
       "removed": false
     },
     {
@@ -5230,10 +5230,10 @@
         "0752113406179"
       ],
       "model_numbers": [],
-      "native_count": 27,
-      "native_avg": 4.963,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "native_count": 28,
+      "native_avg": 4.9643,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8973,
       "removed": false
     },
     {
@@ -5798,10 +5798,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 43,
-      "native_avg": 4.7209,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.7363,
+      "native_count": 42,
+      "native_avg": 4.7619,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -5969,8 +5969,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.4118,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -6053,8 +6053,8 @@
       "model_numbers": [],
       "native_count": 20,
       "native_avg": 4.9,
-      "syndicated_count": 675,
-      "syndicated_avg": 4.843,
+      "syndicated_count": 676,
+      "syndicated_avg": 4.8432,
       "removed": false
     },
     {
@@ -6401,8 +6401,8 @@
       "model_numbers": [],
       "native_count": 12,
       "native_avg": 4.8333,
-      "syndicated_count": 689,
-      "syndicated_avg": 4.897,
+      "syndicated_count": 690,
+      "syndicated_avg": 4.8971,
       "removed": false
     },
     {
@@ -6461,8 +6461,8 @@
       "model_numbers": [],
       "native_count": 47,
       "native_avg": 4.766,
-      "syndicated_count": 689,
-      "syndicated_avg": 4.897,
+      "syndicated_count": 690,
+      "syndicated_avg": 4.8971,
       "removed": false
     },
     {
@@ -7057,8 +7057,8 @@
       "model_numbers": [],
       "native_count": 19,
       "native_avg": 4.7368,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.7363,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7104,8 +7104,8 @@
       "model_numbers": [],
       "native_count": 6,
       "native_avg": 4.6667,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.7363,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7151,8 +7151,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 4.6,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.7363,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.7556,
       "removed": false
     },
     {
@@ -7547,10 +7547,10 @@
       "model_numbers": [
         "2504417"
       ],
-      "native_count": 53,
-      "native_avg": 4.8302,
-      "syndicated_count": 88,
-      "syndicated_avg": 4.7955,
+      "native_count": 54,
+      "native_avg": 4.8333,
+      "syndicated_count": 89,
+      "syndicated_avg": 4.7978,
       "removed": false
     },
     {
@@ -7696,8 +7696,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 4.7143,
-      "syndicated_count": 88,
-      "syndicated_avg": 4.7955,
+      "syndicated_count": 89,
+      "syndicated_avg": 4.7978,
       "removed": false
     },
     {
@@ -7740,8 +7740,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 4.3333,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.8431,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7875,8 +7875,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.8824,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.8431,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7920,8 +7920,8 @@
       "model_numbers": [],
       "native_count": 9,
       "native_avg": 5,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.8431,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7961,8 +7961,8 @@
       "model_numbers": [],
       "native_count": 13,
       "native_avg": 4.9231,
-      "syndicated_count": 88,
-      "syndicated_avg": 4.7955,
+      "syndicated_count": 89,
+      "syndicated_avg": 4.7978,
       "removed": false
     },
     {
@@ -8001,10 +8001,10 @@
         "0752113504660"
       ],
       "model_numbers": [],
-      "native_count": 22,
-      "native_avg": 4.8182,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.8431,
+      "native_count": 23,
+      "native_avg": 4.8261,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -8044,8 +8044,8 @@
       "model_numbers": [],
       "native_count": 15,
       "native_avg": 4.6,
-      "syndicated_count": 88,
-      "syndicated_avg": 4.7955,
+      "syndicated_count": 89,
+      "syndicated_avg": 4.7978,
       "removed": false
     },
     {
@@ -8474,8 +8474,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -8797,8 +8797,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 109,
-      "syndicated_avg": 4.6606,
+      "syndicated_count": 110,
+      "syndicated_avg": 4.6636,
       "removed": false
     },
     {
@@ -8831,8 +8831,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -8950,8 +8950,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 31,
-      "syndicated_avg": 4.871,
+      "syndicated_count": 32,
+      "syndicated_avg": 4.875,
       "removed": false
     },
     {
@@ -9018,8 +9018,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -10157,8 +10157,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -10242,8 +10242,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -10361,8 +10361,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 234,
-      "syndicated_avg": 4.9316,
+      "syndicated_count": 235,
+      "syndicated_avg": 4.9319,
       "removed": false
     },
     {
@@ -10925,10 +10925,10 @@
         "0752113206021"
       ],
       "model_numbers": [],
-      "native_count": 90,
-      "native_avg": 4.7778,
-      "syndicated_count": 669,
-      "syndicated_avg": 4.8416,
+      "native_count": 91,
+      "native_avg": 4.7802,
+      "syndicated_count": 670,
+      "syndicated_avg": 4.8418,
       "removed": false
     },
     {
@@ -11333,6 +11333,110 @@
       "native_avg": 4.5766,
       "syndicated_count": 111,
       "syndicated_avg": 4.5766,
+      "removed": false
+    },
+    {
+      "product_id": "tuscany-cabana-pergola-with-conversation-seating-pebble-panels",
+      "title": "Tuscany Cabana Pergola-Pebble Panels w/ Seating",
+      "url": "https://www.backyarddiscovery.com/products/tuscany-cabana-pergola-with-conversation-seating-pebble-panels",
+      "category": "CABANA - Wood",
+      "upcs": [
+        "752113092525",
+        "752113062573",
+        "752113064553",
+        "752113092563",
+        "752113082564",
+        "752113062559",
+        "752113064539",
+        "752113084544",
+        "752113064515",
+        "752113062511",
+        "752113082526",
+        "752113062535",
+        "752113002524",
+        "752113094543",
+        "752113092556",
+        "752113092532",
+        "752113082571",
+        "752113084551",
+        "752113084513",
+        "752113092570",
+        "752113082533",
+        "752113062528",
+        "752113062566",
+        "752113082557",
+        "752113084537",
+        "752113002562",
+        "752113064546",
+        "752113004542",
+        "752113002531",
+        "752113004511",
+        "752113002555",
+        "752113004535",
+        "752113082519",
+        "752113094550",
+        "752113002579",
+        "752113004559",
+        "752113002517",
+        "752113094512",
+        "752113094536",
+        "752113092518"
+      ],
+      "mpns": [
+        "2002517",
+        "2002524"
+      ],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 6,
+      "native_avg": 4.8333,
+      "syndicated_count": 50,
+      "syndicated_avg": 4.8,
+      "removed": false
+    },
+    {
+      "product_id": "verona-cabana-pergola-bamboo-panels",
+      "title": "Verona Cabana Pergola-Bamboo Panels",
+      "url": "https://www.backyarddiscovery.com/products/verona-cabana-pergola-bamboo-panels?_pos=1&_sid=1ad92fd05&_ss=r",
+      "category": "CABANA - Wood",
+      "upcs": [
+        "752113094529",
+        "752113064522",
+        "752113063563",
+        "752113062542",
+        "752113084520",
+        "752113092587",
+        "752113063570",
+        "752113062580",
+        "752113064560",
+        "752113083561",
+        "752113082540",
+        "752113084568",
+        "752113083578",
+        "752113082588",
+        "752113002586",
+        "752113004566",
+        "752113003576",
+        "752113093560",
+        "752113003569",
+        "752113002548",
+        "752113004528",
+        "752113094567",
+        "752113093577",
+        "752113092549"
+      ],
+      "mpns": [
+        "2002548coma",
+        "2002548",
+        "2002548com",
+        "2002548a"
+      ],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 17,
+      "native_avg": 4.7059,
+      "syndicated_count": 75,
+      "syndicated_avg": 4.7467,
       "removed": false
     }
   ]
