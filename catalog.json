@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-01T00:00:00.000Z",
-  "generated_at": "2026-10-02T11:20:19.110Z",
+  "feed_extract_date": "2026-10-02T00:00:00.000Z",
+  "generated_at": "2026-10-03T11:33:11.686Z",
   "product_count": 369,
   "with_upc": 230,
   "with_mpn": 318,
@@ -1376,8 +1376,8 @@
       "model_numbers": [],
       "native_count": 143,
       "native_avg": 4.9091,
-      "syndicated_count": 803,
-      "syndicated_avg": 4.8929,
+      "syndicated_count": 804,
+      "syndicated_avg": 4.893,
       "removed": false
     },
     {
@@ -2465,15 +2465,10 @@
       "category": "CABANA - Wood",
       "upcs": [
         "752113094529",
-        "752113064522",
         "752113063563",
-        "752113062542",
+        "752113690226",
         "752113084520",
         "752113092587",
-        "752113063570",
-        "752113062580",
-        "752113064560",
-        "752113083561",
         "752113082540",
         "752113084568",
         "752113083578",
@@ -2481,13 +2476,21 @@
         "752113002586",
         "752113004566",
         "752113003576",
-        "752113093560",
-        "752113003569",
         "752113002548",
         "752113004528",
         "752113094567",
         "752113093577",
-        "752113092549"
+        "752113092549",
+        "752113064522",
+        "752113062542",
+        "752113063570",
+        "752113062580",
+        "752113064560",
+        "752113083561",
+        "752113600225",
+        "752113093560",
+        "752113680227",
+        "752113003569"
       ],
       "mpns": [
         "2002586com",
@@ -2518,7 +2521,9 @@
         "752113062559",
         "752113064539",
         "752113084544",
+        "752113690240",
         "752113064515",
+        "752113600249",
         "752113062511",
         "752113082526",
         "752113062535",
@@ -2549,6 +2554,7 @@
         "752113002517",
         "752113094512",
         "752113094536",
+        "752113680241",
         "752113092518"
       ],
       "mpns": [
@@ -3448,8 +3454,8 @@
       "model_numbers": [],
       "native_count": 251,
       "native_avg": 4.8845,
-      "syndicated_count": 803,
-      "syndicated_avg": 4.8929,
+      "syndicated_count": 804,
+      "syndicated_avg": 4.893,
       "removed": false
     },
     {
@@ -4037,8 +4043,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -4082,8 +4088,8 @@
       "model_numbers": [],
       "native_count": 134,
       "native_avg": 4.9254,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -4276,8 +4282,8 @@
       "model_numbers": [],
       "native_count": 95,
       "native_avg": 4.8632,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -4475,8 +4481,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 5,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -4519,8 +4525,8 @@
       "model_numbers": [],
       "native_count": 37,
       "native_avg": 4.6486,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -4579,8 +4585,8 @@
       "model_numbers": [],
       "native_count": 112,
       "native_avg": 4.9821,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8972,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8974,
       "removed": false
     },
     {
@@ -4849,8 +4855,8 @@
       "model_numbers": [],
       "native_count": 75,
       "native_avg": 4.84,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8973,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8974,
       "removed": false
     },
     {
@@ -4957,8 +4963,8 @@
       "model_numbers": [],
       "native_count": 19,
       "native_avg": 4.9474,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8972,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8974,
       "removed": false
     },
     {
@@ -4981,10 +4987,10 @@
         "0752113404090"
       ],
       "model_numbers": [],
-      "native_count": 170,
-      "native_avg": 4.8882,
-      "syndicated_count": 171,
-      "syndicated_avg": 4.8889,
+      "native_count": 171,
+      "native_avg": 4.8889,
+      "syndicated_count": 172,
+      "syndicated_avg": 4.8895,
       "removed": false
     },
     {
@@ -5077,9 +5083,9 @@
       ],
       "model_numbers": [],
       "native_count": 186,
-      "native_avg": 4.6667,
+      "native_avg": 4.672,
       "syndicated_count": 221,
-      "syndicated_avg": 4.6154,
+      "syndicated_avg": 4.6199,
       "removed": false
     },
     {
@@ -5232,8 +5238,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 4.9643,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8973,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8974,
       "removed": false
     },
     {
@@ -5969,8 +5975,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.4118,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -6053,8 +6059,8 @@
       "model_numbers": [],
       "native_count": 20,
       "native_avg": 4.9,
-      "syndicated_count": 676,
-      "syndicated_avg": 4.8432,
+      "syndicated_count": 677,
+      "syndicated_avg": 4.8434,
       "removed": false
     },
     {
@@ -6401,8 +6407,8 @@
       "model_numbers": [],
       "native_count": 12,
       "native_avg": 4.8333,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8973,
       "removed": false
     },
     {
@@ -6459,10 +6465,10 @@
         "0752113406179"
       ],
       "model_numbers": [],
-      "native_count": 47,
-      "native_avg": 4.766,
-      "syndicated_count": 690,
-      "syndicated_avg": 4.8971,
+      "native_count": 48,
+      "native_avg": 4.7708,
+      "syndicated_count": 691,
+      "syndicated_avg": 4.8973,
       "removed": false
     },
     {
@@ -7295,10 +7301,10 @@
         "0752113504745"
       ],
       "model_numbers": [],
-      "native_count": 106,
-      "native_avg": 4.8962,
-      "syndicated_count": 113,
-      "syndicated_avg": 4.9027,
+      "native_count": 108,
+      "native_avg": 4.8981,
+      "syndicated_count": 116,
+      "syndicated_avg": 4.9052,
       "removed": false
     },
     {
@@ -7547,10 +7553,10 @@
       "model_numbers": [
         "2504417"
       ],
-      "native_count": 54,
-      "native_avg": 4.8333,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7978,
+      "native_count": 55,
+      "native_avg": 4.8364,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.8,
       "removed": false
     },
     {
@@ -7696,8 +7702,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 4.7143,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7978,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.8,
       "removed": false
     },
     {
@@ -7785,8 +7791,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 5,
-      "syndicated_count": 113,
-      "syndicated_avg": 4.9027,
+      "syndicated_count": 116,
+      "syndicated_avg": 4.9052,
       "removed": false
     },
     {
@@ -7830,8 +7836,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 113,
-      "syndicated_avg": 4.9027,
+      "syndicated_count": 116,
+      "syndicated_avg": 4.9052,
       "removed": false
     },
     {
@@ -7961,8 +7967,8 @@
       "model_numbers": [],
       "native_count": 13,
       "native_avg": 4.9231,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7978,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.8,
       "removed": false
     },
     {
@@ -8044,8 +8050,8 @@
       "model_numbers": [],
       "native_count": 15,
       "native_avg": 4.6,
-      "syndicated_count": 89,
-      "syndicated_avg": 4.7978,
+      "syndicated_count": 90,
+      "syndicated_avg": 4.8,
       "removed": false
     },
     {
@@ -8089,8 +8095,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 113,
-      "syndicated_avg": 4.9027,
+      "syndicated_count": 116,
+      "syndicated_avg": 4.9052,
       "removed": false
     },
     {
@@ -8119,10 +8125,10 @@
         "0752113504769"
       ],
       "model_numbers": [],
-      "native_count": 29,
-      "native_avg": 4.9655,
-      "syndicated_count": 47,
-      "syndicated_avg": 4.8936,
+      "native_count": 30,
+      "native_avg": 4.9667,
+      "syndicated_count": 48,
+      "syndicated_avg": 4.8958,
       "removed": false
     },
     {
@@ -8153,8 +8159,8 @@
       "model_numbers": [],
       "native_count": 12,
       "native_avg": 4.75,
-      "syndicated_count": 47,
-      "syndicated_avg": 4.8936,
+      "syndicated_count": 48,
+      "syndicated_avg": 4.8958,
       "removed": false
     },
     {
@@ -9580,7 +9586,7 @@
       "native_count": 6,
       "native_avg": 4.8333,
       "syndicated_count": 192,
-      "syndicated_avg": 4.6719,
+      "syndicated_avg": 4.6771,
       "removed": false
     },
     {
@@ -10748,8 +10754,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 171,
-      "syndicated_avg": 4.8889,
+      "syndicated_count": 172,
+      "syndicated_avg": 4.8895,
       "removed": false
     },
     {
@@ -10925,10 +10931,10 @@
         "0752113206021"
       ],
       "model_numbers": [],
-      "native_count": 91,
-      "native_avg": 4.7802,
-      "syndicated_count": 670,
-      "syndicated_avg": 4.8418,
+      "native_count": 92,
+      "native_avg": 4.7826,
+      "syndicated_count": 671,
+      "syndicated_avg": 4.842,
       "removed": false
     },
     {
@@ -11000,8 +11006,8 @@
       "model_numbers": [],
       "native_count": 6,
       "native_avg": 4.8333,
-      "syndicated_count": 47,
-      "syndicated_avg": 4.8936,
+      "syndicated_count": 48,
+      "syndicated_avg": 4.8958,
       "removed": false
     },
     {
@@ -11060,10 +11066,10 @@
         "0752113600089"
       ],
       "model_numbers": [],
-      "native_count": 0,
-      "native_avg": null,
-      "syndicated_count": 113,
-      "syndicated_avg": 4.9027,
+      "native_count": 1,
+      "native_avg": 5,
+      "syndicated_count": 116,
+      "syndicated_avg": 4.9052,
       "removed": false
     },
     {
@@ -11349,7 +11355,9 @@
         "752113062559",
         "752113064539",
         "752113084544",
+        "752113690240",
         "752113064515",
+        "752113600249",
         "752113062511",
         "752113082526",
         "752113062535",
@@ -11380,6 +11388,7 @@
         "752113002517",
         "752113094512",
         "752113094536",
+        "752113680241",
         "752113092518"
       ],
       "mpns": [
@@ -11401,15 +11410,10 @@
       "category": "CABANA - Wood",
       "upcs": [
         "752113094529",
-        "752113064522",
         "752113063563",
-        "752113062542",
+        "752113690226",
         "752113084520",
         "752113092587",
-        "752113063570",
-        "752113062580",
-        "752113064560",
-        "752113083561",
         "752113082540",
         "752113084568",
         "752113083578",
@@ -11417,13 +11421,21 @@
         "752113002586",
         "752113004566",
         "752113003576",
-        "752113093560",
-        "752113003569",
         "752113002548",
         "752113004528",
         "752113094567",
         "752113093577",
-        "752113092549"
+        "752113092549",
+        "752113064522",
+        "752113062542",
+        "752113063570",
+        "752113062580",
+        "752113064560",
+        "752113083561",
+        "752113600225",
+        "752113093560",
+        "752113680227",
+        "752113003569"
       ],
       "mpns": [
         "2002548coma",
