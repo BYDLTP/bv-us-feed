@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-04T00:00:00.000Z",
-  "generated_at": "2026-10-05T11:22:52.634Z",
+  "feed_extract_date": "2026-10-05T00:00:00.000Z",
+  "generated_at": "2026-10-06T11:21:44.560Z",
   "product_count": 365,
   "with_upc": 226,
   "with_mpn": 314,
@@ -3240,10 +3240,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 52,
-      "native_avg": 4.7885,
-      "syndicated_count": 52,
-      "syndicated_avg": 4.7885,
+      "native_count": 53,
+      "native_avg": 4.7736,
+      "syndicated_count": 53,
+      "syndicated_avg": 4.7736,
       "removed": false
     },
     {
@@ -4900,7 +4900,7 @@
       "model_numbers": [],
       "native_count": 24,
       "native_avg": 5,
-      "syndicated_count": 26,
+      "syndicated_count": 27,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -6093,10 +6093,10 @@
         "0752113305076"
       ],
       "model_numbers": [],
-      "native_count": 19,
-      "native_avg": 4.8947,
-      "syndicated_count": 19,
-      "syndicated_avg": 4.8947,
+      "native_count": 20,
+      "native_avg": 4.9,
+      "syndicated_count": 20,
+      "syndicated_avg": 4.9,
       "removed": false
     },
     {
@@ -7516,7 +7516,7 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 26,
+      "syndicated_count": 27,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -10977,9 +10977,9 @@
         "0752113600041"
       ],
       "model_numbers": [],
-      "native_count": 0,
-      "native_avg": null,
-      "syndicated_count": 26,
+      "native_count": 1,
+      "native_avg": 5,
+      "syndicated_count": 27,
       "syndicated_avg": 5,
       "removed": false
     },
