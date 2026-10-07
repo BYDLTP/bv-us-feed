@@ -1,11 +1,11 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-05T00:00:00.000Z",
-  "generated_at": "2026-10-06T11:21:44.560Z",
-  "product_count": 365,
-  "with_upc": 226,
-  "with_mpn": 314,
+  "feed_extract_date": "2026-10-06T00:00:00.000Z",
+  "generated_at": "2026-10-07T11:21:27.146Z",
+  "product_count": 367,
+  "with_upc": 228,
+  "with_mpn": 315,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
     {
@@ -97,8 +97,8 @@
       "model_numbers": [],
       "native_count": 114,
       "native_avg": 4.7632,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -413,8 +413,8 @@
       "model_numbers": [],
       "native_count": 612,
       "native_avg": 4.585,
-      "syndicated_count": 1040,
-      "syndicated_avg": 4.6808,
+      "syndicated_count": 1041,
+      "syndicated_avg": 4.6792,
       "removed": false
     },
     {
@@ -642,8 +642,8 @@
       "model_numbers": [],
       "native_count": 254,
       "native_avg": 4.752,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -985,8 +985,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 4.75,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -1253,8 +1253,8 @@
       "model_numbers": [],
       "native_count": 934,
       "native_avg": 4.834,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -1305,10 +1305,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 418,
-      "native_avg": 4.8182,
-      "syndicated_count": 1040,
-      "syndicated_avg": 4.6808,
+      "native_count": 419,
+      "native_avg": 4.8138,
+      "syndicated_count": 1041,
+      "syndicated_avg": 4.6792,
       "removed": false
     },
     {
@@ -2459,6 +2459,55 @@
       "removed": false
     },
     {
+      "product_id": "6635928027271",
+      "title": "Verona Corner Pergola-Bamboo Panels",
+      "url": "https://backyard-discovery.myshopify.com/products/verona-cabana-pergola-bamboo-panels",
+      "category": "CABANA - Wood",
+      "upcs": [
+        "752113094529",
+        "752113063563",
+        "752113690226",
+        "752113084520",
+        "752113092587",
+        "752113082540",
+        "752113084568",
+        "752113083578",
+        "752113082588",
+        "752113002586",
+        "752113004566",
+        "752113003576",
+        "752113002548",
+        "752113004528",
+        "752113094567",
+        "752113093577",
+        "752113092549",
+        "752113064522",
+        "752113062542",
+        "752113063570",
+        "752113062580",
+        "752113064560",
+        "752113083561",
+        "752113600225",
+        "752113093560",
+        "752113680227",
+        "752113003569"
+      ],
+      "mpns": [
+        "2002586com",
+        "2002586coma",
+        "2002548",
+        "2002586a",
+        "2002586"
+      ],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 23,
+      "native_avg": 4.6957,
+      "syndicated_count": 76,
+      "syndicated_avg": 4.75,
+      "removed": false
+    },
+    {
       "product_id": "6641060479111",
       "title": "100 Quart Patio Cooler - Acacia",
       "url": "https://backyard-discovery.myshopify.com/products/100-qt-patio-cooler-acacia",
@@ -3143,8 +3192,8 @@
       "model_numbers": [],
       "native_count": 175,
       "native_avg": 4.9257,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -3182,8 +3231,8 @@
       "model_numbers": [],
       "native_count": 97,
       "native_avg": 4.8247,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -3218,10 +3267,10 @@
         "0752113405059"
       ],
       "model_numbers": [],
-      "native_count": 55,
-      "native_avg": 4.9091,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "native_count": 56,
+      "native_avg": 4.9107,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -3800,10 +3849,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 7,
+      "native_count": 8,
       "native_avg": 5,
-      "syndicated_count": 37,
-      "syndicated_avg": 4.9459,
+      "syndicated_count": 38,
+      "syndicated_avg": 4.9474,
       "removed": false
     },
     {
@@ -3874,8 +3923,8 @@
       "model_numbers": [],
       "native_count": 160,
       "native_avg": 4.8437,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -4122,8 +4171,8 @@
       "model_numbers": [],
       "native_count": 97,
       "native_avg": 4.8969,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -4539,8 +4588,8 @@
       "model_numbers": [],
       "native_count": 37,
       "native_avg": 4.8919,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -4609,8 +4658,8 @@
       "model_numbers": [],
       "native_count": 55,
       "native_avg": 4.8,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -4680,8 +4729,8 @@
       "model_numbers": [],
       "native_count": 83,
       "native_avg": 4.8313,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -5390,8 +5439,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 3.6667,
-      "syndicated_count": 1424,
-      "syndicated_avg": 4.8385,
+      "syndicated_count": 1425,
+      "syndicated_avg": 4.8386,
       "removed": false
     },
     {
@@ -6195,8 +6244,8 @@
       "model_numbers": [],
       "native_count": 6,
       "native_avg": 4.6667,
-      "syndicated_count": 1415,
-      "syndicated_avg": 4.8375,
+      "syndicated_count": 1416,
+      "syndicated_avg": 4.8376,
       "removed": false
     },
     {
@@ -6418,8 +6467,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 4.8,
-      "syndicated_count": 1415,
-      "syndicated_avg": 4.8375,
+      "syndicated_count": 1416,
+      "syndicated_avg": 4.8376,
       "removed": false
     },
     {
@@ -6482,10 +6531,10 @@
         "0752113406124"
       ],
       "model_numbers": [],
-      "native_count": 35,
-      "native_avg": 4.8857,
-      "syndicated_count": 1415,
-      "syndicated_avg": 4.8375,
+      "native_count": 36,
+      "native_avg": 4.8889,
+      "syndicated_count": 1416,
+      "syndicated_avg": 4.8376,
       "removed": false
     },
     {
@@ -6781,8 +6830,8 @@
       "model_numbers": [],
       "native_count": 8,
       "native_avg": 4.875,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -6819,8 +6868,8 @@
       "model_numbers": [],
       "native_count": 13,
       "native_avg": 4.9231,
-      "syndicated_count": 744,
-      "syndicated_avg": 4.8199,
+      "syndicated_count": 745,
+      "syndicated_avg": 4.8201,
       "removed": false
     },
     {
@@ -7631,8 +7680,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 4.3333,
-      "syndicated_count": 53,
-      "syndicated_avg": 4.8302,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7766,8 +7815,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.8824,
-      "syndicated_count": 53,
-      "syndicated_avg": 4.8302,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7811,8 +7860,8 @@
       "model_numbers": [],
       "native_count": 9,
       "native_avg": 5,
-      "syndicated_count": 53,
-      "syndicated_avg": 4.8302,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -7892,10 +7941,10 @@
         "0752113504660"
       ],
       "model_numbers": [],
-      "native_count": 24,
-      "native_avg": 4.7917,
-      "syndicated_count": 53,
-      "syndicated_avg": 4.8302,
+      "native_count": 23,
+      "native_avg": 4.8261,
+      "syndicated_count": 52,
+      "syndicated_avg": 4.8462,
       "removed": false
     },
     {
@@ -8010,10 +8059,10 @@
         "0752113504769"
       ],
       "model_numbers": [],
-      "native_count": 30,
-      "native_avg": 4.9667,
-      "syndicated_count": 48,
-      "syndicated_avg": 4.8958,
+      "native_count": 31,
+      "native_avg": 4.9677,
+      "syndicated_count": 51,
+      "syndicated_avg": 4.902,
       "removed": false
     },
     {
@@ -8042,10 +8091,10 @@
         "0752113504769"
       ],
       "model_numbers": [],
-      "native_count": 12,
-      "native_avg": 4.75,
-      "syndicated_count": 48,
-      "syndicated_avg": 4.8958,
+      "native_count": 13,
+      "native_avg": 4.7692,
+      "syndicated_count": 51,
+      "syndicated_avg": 4.902,
       "removed": false
     },
     {
@@ -9742,8 +9791,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 5,
-      "syndicated_count": 1040,
-      "syndicated_avg": 4.6808,
+      "syndicated_count": 1041,
+      "syndicated_avg": 4.6792,
       "removed": false
     },
     {
@@ -10320,8 +10369,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 4.3333,
-      "syndicated_count": 1040,
-      "syndicated_avg": 4.6808,
+      "syndicated_count": 1041,
+      "syndicated_avg": 4.6792,
       "removed": false
     },
     {
@@ -10889,10 +10938,10 @@
         "0752113600096"
       ],
       "model_numbers": [],
-      "native_count": 6,
-      "native_avg": 4.8333,
-      "syndicated_count": 48,
-      "syndicated_avg": 4.8958,
+      "native_count": 7,
+      "native_avg": 4.8571,
+      "syndicated_count": 51,
+      "syndicated_avg": 4.902,
       "removed": false
     },
     {
@@ -11021,9 +11070,9 @@
         "0752113400382"
       ],
       "model_numbers": [],
-      "native_count": 15,
+      "native_count": 16,
       "native_avg": 5,
-      "syndicated_count": 17,
+      "syndicated_count": 18,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11075,6 +11124,28 @@
       "removed": false
     },
     {
+      "product_id": "8695814750343",
+      "title": "Verona Corner Pergola",
+      "url": "https://www.backyarddiscovery.com/products/verona-cabana-pergola",
+      "category": "CABANA - Wood",
+      "upcs": [
+        "752113600225",
+        "752113690226",
+        "752113680227",
+        "752113690219",
+        "752113600218",
+        "752113680210"
+      ],
+      "mpns": [],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 0,
+      "native_avg": null,
+      "syndicated_count": 75,
+      "syndicated_avg": 4.7467,
+      "removed": false
+    },
+    {
       "product_id": "8731547664519",
       "title": "14x14 Ridgeline Steel Louvered Pergola",
       "url": "https://www.backyarddiscovery.com/products/14x14-ridgeline-steel-louvered-pergola",
@@ -11106,7 +11177,7 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 7,
+      "syndicated_count": 8,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11140,9 +11211,9 @@
         "0752113600003"
       ],
       "model_numbers": [],
-      "native_count": 7,
+      "native_count": 8,
       "native_avg": 5,
-      "syndicated_count": 7,
+      "syndicated_count": 8,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11178,7 +11249,7 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 7,
+      "syndicated_count": 8,
       "syndicated_avg": 5,
       "removed": false
     },
