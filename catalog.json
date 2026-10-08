@@ -1,10 +1,10 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-06T00:00:00.000Z",
-  "generated_at": "2026-10-07T11:21:27.146Z",
-  "product_count": 367,
-  "with_upc": 228,
+  "feed_extract_date": "2026-10-07T00:00:00.000Z",
+  "generated_at": "2026-10-08T11:22:24.336Z",
+  "product_count": 368,
+  "with_upc": 229,
   "with_mpn": 315,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
@@ -2501,10 +2501,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 23,
-      "native_avg": 4.6957,
-      "syndicated_count": 76,
-      "syndicated_avg": 4.75,
+      "native_count": 21,
+      "native_avg": 4.8095,
+      "syndicated_count": 73,
+      "syndicated_avg": 4.8356,
       "removed": false
     },
     {
@@ -7235,10 +7235,10 @@
         "0752113504745"
       ],
       "model_numbers": [],
-      "native_count": 109,
-      "native_avg": 4.8991,
-      "syndicated_count": 118,
-      "syndicated_avg": 4.9068,
+      "native_count": 110,
+      "native_avg": 4.9,
+      "syndicated_count": 119,
+      "syndicated_avg": 4.9076,
       "removed": false
     },
     {
@@ -7680,8 +7680,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 4.3333,
-      "syndicated_count": 52,
-      "syndicated_avg": 4.8462,
+      "syndicated_count": 53,
+      "syndicated_avg": 4.8302,
       "removed": false
     },
     {
@@ -7725,8 +7725,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 5,
-      "syndicated_count": 118,
-      "syndicated_avg": 4.9068,
+      "syndicated_count": 119,
+      "syndicated_avg": 4.9076,
       "removed": false
     },
     {
@@ -7770,8 +7770,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 118,
-      "syndicated_avg": 4.9068,
+      "syndicated_count": 119,
+      "syndicated_avg": 4.9076,
       "removed": false
     },
     {
@@ -7815,8 +7815,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.8824,
-      "syndicated_count": 52,
-      "syndicated_avg": 4.8462,
+      "syndicated_count": 53,
+      "syndicated_avg": 4.8302,
       "removed": false
     },
     {
@@ -7860,8 +7860,8 @@
       "model_numbers": [],
       "native_count": 9,
       "native_avg": 5,
-      "syndicated_count": 52,
-      "syndicated_avg": 4.8462,
+      "syndicated_count": 53,
+      "syndicated_avg": 4.8302,
       "removed": false
     },
     {
@@ -7941,10 +7941,10 @@
         "0752113504660"
       ],
       "model_numbers": [],
-      "native_count": 23,
-      "native_avg": 4.8261,
-      "syndicated_count": 52,
-      "syndicated_avg": 4.8462,
+      "native_count": 24,
+      "native_avg": 4.7917,
+      "syndicated_count": 53,
+      "syndicated_avg": 4.8302,
       "removed": false
     },
     {
@@ -8029,8 +8029,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 118,
-      "syndicated_avg": 4.9068,
+      "syndicated_count": 119,
+      "syndicated_avg": 4.9076,
       "removed": false
     },
     {
@@ -8061,8 +8061,8 @@
       "model_numbers": [],
       "native_count": 31,
       "native_avg": 4.9677,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.902,
+      "syndicated_count": 50,
+      "syndicated_avg": 4.94,
       "removed": false
     },
     {
@@ -8091,10 +8091,10 @@
         "0752113504769"
       ],
       "model_numbers": [],
-      "native_count": 13,
-      "native_avg": 4.7692,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.902,
+      "native_count": 12,
+      "native_avg": 4.9167,
+      "syndicated_count": 50,
+      "syndicated_avg": 4.94,
       "removed": false
     },
     {
@@ -8754,8 +8754,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 24,
-      "syndicated_avg": 4.7083,
+      "syndicated_count": 22,
+      "syndicated_avg": 4.8182,
       "removed": false
     },
     {
@@ -8992,8 +8992,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 32,
-      "syndicated_avg": 4.8125,
+      "syndicated_count": 0,
+      "syndicated_avg": null,
       "removed": false
     },
     {
@@ -10386,8 +10386,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 32,
-      "syndicated_avg": 4.8125,
+      "syndicated_count": 0,
+      "syndicated_avg": null,
       "removed": false
     },
     {
@@ -10940,8 +10940,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 4.8571,
-      "syndicated_count": 51,
-      "syndicated_avg": 4.902,
+      "syndicated_count": 50,
+      "syndicated_avg": 4.94,
       "removed": false
     },
     {
@@ -11002,8 +11002,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 118,
-      "syndicated_avg": 4.9068,
+      "syndicated_count": 119,
+      "syndicated_avg": 4.9076,
       "removed": false
     },
     {
@@ -11117,9 +11117,9 @@
         "0752113404212"
       ],
       "model_numbers": [],
-      "native_count": 1,
+      "native_count": 3,
       "native_avg": 5,
-      "syndicated_count": 1,
+      "syndicated_count": 3,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11141,8 +11141,30 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 75,
-      "syndicated_avg": 4.7467,
+      "syndicated_count": 72,
+      "syndicated_avg": 4.8333,
+      "removed": false
+    },
+    {
+      "product_id": "8698351878279",
+      "title": "Tuscany Corner Pergola with Conversation Seating - Privacy Panels",
+      "url": "https://www.backyarddiscovery.com/products/tuscany-corner-cabana-with-conversation-seating-privacy-panels",
+      "category": "CABANA - Wood",
+      "upcs": [
+        "752113600256",
+        "752113690240",
+        "752113680258",
+        "752113600249",
+        "752113680241",
+        "752113690257"
+      ],
+      "mpns": [],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 38,
+      "native_avg": 4.8158,
+      "syndicated_count": 38,
+      "syndicated_avg": 4.8158,
       "removed": false
     },
     {
