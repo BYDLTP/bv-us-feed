@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-07T00:00:00.000Z",
-  "generated_at": "2026-10-08T11:22:24.336Z",
+  "feed_extract_date": "2026-10-08T00:00:00.000Z",
+  "generated_at": "2026-10-09T11:22:29.335Z",
   "product_count": 368,
   "with_upc": 229,
   "with_mpn": 315,
@@ -3289,10 +3289,10 @@
       ],
       "eans": [],
       "model_numbers": [],
-      "native_count": 53,
-      "native_avg": 4.7736,
-      "syndicated_count": 53,
-      "syndicated_avg": 4.7736,
+      "native_count": 54,
+      "native_avg": 4.7778,
+      "syndicated_count": 54,
+      "syndicated_avg": 4.7778,
       "removed": false
     },
     {
@@ -11199,7 +11199,7 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 8,
+      "syndicated_count": 9,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11235,7 +11235,7 @@
       "model_numbers": [],
       "native_count": 8,
       "native_avg": 5,
-      "syndicated_count": 8,
+      "syndicated_count": 9,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11269,9 +11269,9 @@
         "0752113600034"
       ],
       "model_numbers": [],
-      "native_count": 0,
-      "native_avg": null,
-      "syndicated_count": 8,
+      "native_count": 1,
+      "native_avg": 5,
+      "syndicated_count": 9,
       "syndicated_avg": 5,
       "removed": false
     },
