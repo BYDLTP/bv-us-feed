@@ -1,10 +1,10 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-09T00:00:00.000Z",
-  "generated_at": "2026-10-10T11:21:02.863Z",
-  "product_count": 368,
-  "with_upc": 229,
+  "feed_extract_date": "2026-10-10T00:00:00.000Z",
+  "generated_at": "2026-10-11T11:19:56.001Z",
+  "product_count": 372,
+  "with_upc": 233,
   "with_mpn": 315,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
@@ -1376,8 +1376,8 @@
       "model_numbers": [],
       "native_count": 143,
       "native_avg": 4.9091,
-      "syndicated_count": 804,
-      "syndicated_avg": 4.893,
+      "syndicated_count": 805,
+      "syndicated_avg": 4.8882,
       "removed": false
     },
     {
@@ -3388,8 +3388,8 @@
       "model_numbers": [],
       "native_count": 251,
       "native_avg": 4.8845,
-      "syndicated_count": 804,
-      "syndicated_avg": 4.893,
+      "syndicated_count": 805,
+      "syndicated_avg": 4.8882,
       "removed": false
     },
     {
@@ -4517,10 +4517,10 @@
         "0752113406179"
       ],
       "model_numbers": [],
-      "native_count": 112,
-      "native_avg": 4.9821,
-      "syndicated_count": 692,
-      "syndicated_avg": 4.8974,
+      "native_count": 113,
+      "native_avg": 4.9469,
+      "syndicated_count": 693,
+      "syndicated_avg": 4.8918,
       "removed": false
     },
     {
@@ -4789,8 +4789,8 @@
       "model_numbers": [],
       "native_count": 75,
       "native_avg": 4.84,
-      "syndicated_count": 692,
-      "syndicated_avg": 4.8974,
+      "syndicated_count": 693,
+      "syndicated_avg": 4.8918,
       "removed": false
     },
     {
@@ -4897,8 +4897,8 @@
       "model_numbers": [],
       "native_count": 19,
       "native_avg": 4.9474,
-      "syndicated_count": 692,
-      "syndicated_avg": 4.8974,
+      "syndicated_count": 693,
+      "syndicated_avg": 4.8918,
       "removed": false
     },
     {
@@ -5172,8 +5172,8 @@
       "model_numbers": [],
       "native_count": 28,
       "native_avg": 4.9643,
-      "syndicated_count": 692,
-      "syndicated_avg": 4.8974,
+      "syndicated_count": 693,
+      "syndicated_avg": 4.8918,
       "removed": false
     },
     {
@@ -5393,8 +5393,8 @@
       "model_numbers": [],
       "native_count": 51,
       "native_avg": 4.7255,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -5524,8 +5524,8 @@
       "model_numbers": [],
       "native_count": 26,
       "native_avg": 4.8077,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -5569,8 +5569,8 @@
       "model_numbers": [],
       "native_count": 32,
       "native_avg": 4.875,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -5826,8 +5826,8 @@
       "model_numbers": [],
       "native_count": 16,
       "native_avg": 4.5625,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -6341,8 +6341,8 @@
       "model_numbers": [],
       "native_count": 12,
       "native_avg": 4.8333,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8973,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8916,
       "removed": false
     },
     {
@@ -6401,8 +6401,8 @@
       "model_numbers": [],
       "native_count": 48,
       "native_avg": 4.7708,
-      "syndicated_count": 691,
-      "syndicated_avg": 4.8973,
+      "syndicated_count": 692,
+      "syndicated_avg": 4.8916,
       "removed": false
     },
     {
@@ -6634,10 +6634,10 @@
         "0752113407015"
       ],
       "model_numbers": [],
-      "native_count": 21,
-      "native_avg": 4.5714,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "native_count": 22,
+      "native_avg": 4.5909,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -7237,8 +7237,8 @@
       "model_numbers": [],
       "native_count": 111,
       "native_avg": 4.9009,
-      "syndicated_count": 120,
-      "syndicated_avg": 4.9083,
+      "syndicated_count": 121,
+      "syndicated_avg": 4.9091,
       "removed": false
     },
     {
@@ -7406,8 +7406,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 5,
-      "syndicated_count": 153,
-      "syndicated_avg": 4.7451,
+      "syndicated_count": 154,
+      "syndicated_avg": 4.7468,
       "removed": false
     },
     {
@@ -7489,8 +7489,8 @@
       ],
       "native_count": 55,
       "native_avg": 4.8364,
-      "syndicated_count": 90,
-      "syndicated_avg": 4.8,
+      "syndicated_count": 91,
+      "syndicated_avg": 4.8022,
       "removed": false
     },
     {
@@ -7636,8 +7636,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 4.7143,
-      "syndicated_count": 90,
-      "syndicated_avg": 4.8,
+      "syndicated_count": 91,
+      "syndicated_avg": 4.8022,
       "removed": false
     },
     {
@@ -7725,8 +7725,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 5,
-      "syndicated_count": 120,
-      "syndicated_avg": 4.9083,
+      "syndicated_count": 121,
+      "syndicated_avg": 4.9091,
       "removed": false
     },
     {
@@ -7770,8 +7770,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 120,
-      "syndicated_avg": 4.9083,
+      "syndicated_count": 121,
+      "syndicated_avg": 4.9091,
       "removed": false
     },
     {
@@ -7899,10 +7899,10 @@
         "0752113504394"
       ],
       "model_numbers": [],
-      "native_count": 13,
-      "native_avg": 4.9231,
-      "syndicated_count": 90,
-      "syndicated_avg": 4.8,
+      "native_count": 14,
+      "native_avg": 4.9286,
+      "syndicated_count": 91,
+      "syndicated_avg": 4.8022,
       "removed": false
     },
     {
@@ -7984,8 +7984,8 @@
       "model_numbers": [],
       "native_count": 15,
       "native_avg": 4.6,
-      "syndicated_count": 90,
-      "syndicated_avg": 4.8,
+      "syndicated_count": 91,
+      "syndicated_avg": 4.8022,
       "removed": false
     },
     {
@@ -8029,8 +8029,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 120,
-      "syndicated_avg": 4.9083,
+      "syndicated_count": 121,
+      "syndicated_avg": 4.9091,
       "removed": false
     },
     {
@@ -8414,8 +8414,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -8771,8 +8771,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -8958,8 +8958,8 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -10097,8 +10097,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -10182,8 +10182,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -10301,8 +10301,8 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 235,
-      "syndicated_avg": 4.9319,
+      "syndicated_count": 236,
+      "syndicated_avg": 4.9153,
       "removed": false
     },
     {
@@ -11000,10 +11000,10 @@
         "0752113600089"
       ],
       "model_numbers": [],
-      "native_count": 1,
+      "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 120,
-      "syndicated_avg": 4.9083,
+      "syndicated_count": 121,
+      "syndicated_avg": 4.9091,
       "removed": false
     },
     {
@@ -11117,9 +11117,9 @@
         "0752113404212"
       ],
       "model_numbers": [],
-      "native_count": 3,
+      "native_count": 4,
       "native_avg": 5,
-      "syndicated_count": 3,
+      "syndicated_count": 4,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11168,6 +11168,126 @@
       "removed": false
     },
     {
+      "product_id": "8705200881799",
+      "title": "Atlas Steel Swing Set",
+      "url": "https://www.backyarddiscovery.com/products/atlas-swing-set",
+      "category": "Swing Sets",
+      "upcs": [
+        "752113680418",
+        "752113597013",
+        "752113587014",
+        "752113600584",
+        "752113690417",
+        "752113680586",
+        "752113600409",
+        "752113680401",
+        "752113690400",
+        "752113600416",
+        "752113690585",
+        "752113507012"
+      ],
+      "mpns": [],
+      "eans": [
+        "0752113507012"
+      ],
+      "model_numbers": [],
+      "native_count": 3,
+      "native_avg": 5,
+      "syndicated_count": 3,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
+      "product_id": "8705200947335",
+      "title": "Atlas Steel Swing Set with Monkey Bars",
+      "url": "https://www.backyarddiscovery.com/products/atlas-swing-set-with-monkey-bars",
+      "category": "Swing Sets",
+      "upcs": [
+        "752113680418",
+        "752113597013",
+        "752113587014",
+        "752113600584",
+        "752113690417",
+        "752113680586",
+        "752113600409",
+        "752113680401",
+        "752113690400",
+        "752113600416",
+        "752113690585",
+        "752113507012"
+      ],
+      "mpns": [],
+      "eans": [
+        "0752113600409"
+      ],
+      "model_numbers": [],
+      "native_count": 0,
+      "native_avg": null,
+      "syndicated_count": 3,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
+      "product_id": "8714204643463",
+      "title": "Atlas Steel Swing Set with Tube Slide",
+      "url": "https://www.backyarddiscovery.com/products/atlas-steel-swing-set-with-tube-slide",
+      "category": "Miscellaneous",
+      "upcs": [
+        "752113680418",
+        "752113597013",
+        "752113587014",
+        "752113600584",
+        "752113690417",
+        "752113680586",
+        "752113600409",
+        "752113680401",
+        "752113690400",
+        "752113600416",
+        "752113690585",
+        "752113507012"
+      ],
+      "mpns": [],
+      "eans": [
+        "0752113600416"
+      ],
+      "model_numbers": [],
+      "native_count": 0,
+      "native_avg": null,
+      "syndicated_count": 3,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
+      "product_id": "8714204872839",
+      "title": "Atlas Steel Swing Set with Monkey Bars and Tube Slide",
+      "url": "https://www.backyarddiscovery.com/products/atlas-steel-swing-set-with-tube-slide-and-monkey-bars",
+      "category": "Swing Sets",
+      "upcs": [
+        "752113680418",
+        "752113597013",
+        "752113587014",
+        "752113600584",
+        "752113690417",
+        "752113680586",
+        "752113600409",
+        "752113680401",
+        "752113690400",
+        "752113600416",
+        "752113690585",
+        "752113507012"
+      ],
+      "mpns": [],
+      "eans": [
+        "0752113600584"
+      ],
+      "model_numbers": [],
+      "native_count": 0,
+      "native_avg": null,
+      "syndicated_count": 3,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
       "product_id": "8731547664519",
       "title": "14x14 Ridgeline Steel Louvered Pergola",
       "url": "https://www.backyarddiscovery.com/products/14x14-ridgeline-steel-louvered-pergola",
@@ -11199,7 +11319,7 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 9,
+      "syndicated_count": 10,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11235,7 +11355,7 @@
       "model_numbers": [],
       "native_count": 8,
       "native_avg": 5,
-      "syndicated_count": 9,
+      "syndicated_count": 10,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11269,9 +11389,9 @@
         "0752113600034"
       ],
       "model_numbers": [],
-      "native_count": 1,
+      "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 9,
+      "syndicated_count": 10,
       "syndicated_avg": 5,
       "removed": false
     },
