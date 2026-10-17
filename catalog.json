@@ -1,11 +1,11 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-15T00:00:00.000Z",
-  "generated_at": "2026-10-16T11:22:47.315Z",
-  "product_count": 372,
-  "with_upc": 233,
-  "with_mpn": 315,
+  "feed_extract_date": "2026-10-16T00:00:00.000Z",
+  "generated_at": "2026-10-17T11:20:23.012Z",
+  "product_count": 374,
+  "with_upc": 235,
+  "with_mpn": 317,
   "note": "native_count = reviews collected directly by Backyard Discovery (baseline for syndication out to retailers). syndicated_count = native + syndicated-in. Match products to retailer PDPs by UPC/MPN; a retailer count far below native_count suggests broken syndication.",
   "products": [
     {
@@ -7096,6 +7096,46 @@
       "removed": false
     },
     {
+      "product_id": "8071782137991",
+      "title": "Emory 9' Galvanized Steel Outdoor Kitchen Island",
+      "url": "https://www.backyarddiscovery.com/products/emory-9-galvanized-steel-outdoor-kitchen-island",
+      "category": "Outdoor Cook and Entertain",
+      "upcs": [
+        "752113494442",
+        "752113484443"
+      ],
+      "mpns": [
+        "2404441A"
+      ],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 1,
+      "native_avg": 4,
+      "syndicated_count": 1,
+      "syndicated_avg": 4,
+      "removed": false
+    },
+    {
+      "product_id": "8072431239303",
+      "title": "Emory 12' Galvanized Steel Outdoor Kitchen Island",
+      "url": "https://www.backyarddiscovery.com/products/emory-12-galvanized-steel-outdoor-kitchen-island",
+      "category": "Outdoor Cook and Entertain",
+      "upcs": [
+        "752113484450",
+        "752113494459"
+      ],
+      "mpns": [
+        "2404458"
+      ],
+      "eans": [],
+      "model_numbers": [],
+      "native_count": 3,
+      "native_avg": 5,
+      "syndicated_count": 3,
+      "syndicated_avg": 5,
+      "removed": false
+    },
+    {
       "product_id": "8152709496967",
       "title": "14x14 Lancaster Gazebo",
       "url": "https://www.backyarddiscovery.com/products/14x14-lancaster-gazebo",
@@ -7235,10 +7275,10 @@
         "0752113504745"
       ],
       "model_numbers": [],
-      "native_count": 114,
-      "native_avg": 4.9035,
-      "syndicated_count": 126,
-      "syndicated_avg": 4.9048,
+      "native_count": 116,
+      "native_avg": 4.9052,
+      "syndicated_count": 128,
+      "syndicated_avg": 4.9062,
       "removed": false
     },
     {
@@ -7264,9 +7304,9 @@
         "0752113504196"
       ],
       "model_numbers": [],
-      "native_count": 1,
+      "native_count": 3,
       "native_avg": 5,
-      "syndicated_count": 2,
+      "syndicated_count": 4,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -7317,7 +7357,7 @@
       "model_numbers": [],
       "native_count": 1,
       "native_avg": 5,
-      "syndicated_count": 2,
+      "syndicated_count": 4,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -7361,9 +7401,9 @@
       "mpns": [],
       "eans": [],
       "model_numbers": [],
-      "native_count": 1,
+      "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -7489,8 +7529,8 @@
       ],
       "native_count": 55,
       "native_avg": 4.8364,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.8022,
+      "syndicated_count": 92,
+      "syndicated_avg": 4.8043,
       "removed": false
     },
     {
@@ -7636,8 +7676,8 @@
       "model_numbers": [],
       "native_count": 7,
       "native_avg": 4.7143,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.8022,
+      "syndicated_count": 92,
+      "syndicated_avg": 4.8043,
       "removed": false
     },
     {
@@ -7725,8 +7765,8 @@
       "model_numbers": [],
       "native_count": 5,
       "native_avg": 5,
-      "syndicated_count": 126,
-      "syndicated_avg": 4.9048,
+      "syndicated_count": 128,
+      "syndicated_avg": 4.9062,
       "removed": false
     },
     {
@@ -7770,8 +7810,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 126,
-      "syndicated_avg": 4.9048,
+      "syndicated_count": 128,
+      "syndicated_avg": 4.9062,
       "removed": false
     },
     {
@@ -7901,8 +7941,8 @@
       "model_numbers": [],
       "native_count": 14,
       "native_avg": 4.9286,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.8022,
+      "syndicated_count": 92,
+      "syndicated_avg": 4.8043,
       "removed": false
     },
     {
@@ -7982,10 +8022,10 @@
         "0752113504394"
       ],
       "model_numbers": [],
-      "native_count": 15,
-      "native_avg": 4.6,
-      "syndicated_count": 91,
-      "syndicated_avg": 4.8022,
+      "native_count": 16,
+      "native_avg": 4.625,
+      "syndicated_count": 92,
+      "syndicated_avg": 4.8043,
       "removed": false
     },
     {
@@ -8029,8 +8069,8 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 4.5,
-      "syndicated_count": 126,
-      "syndicated_avg": 4.9048,
+      "syndicated_count": 128,
+      "syndicated_avg": 4.9063,
       "removed": false
     },
     {
@@ -8361,10 +8401,10 @@
         "0752113400092"
       ],
       "model_numbers": [],
-      "native_count": 16,
-      "native_avg": 4.75,
-      "syndicated_count": 16,
-      "syndicated_avg": 4.75,
+      "native_count": 17,
+      "native_avg": 4.7647,
+      "syndicated_count": 17,
+      "syndicated_avg": 4.7647,
       "removed": false
     },
     {
@@ -11002,8 +11042,8 @@
       "model_numbers": [],
       "native_count": 3,
       "native_avg": 5,
-      "syndicated_count": 126,
-      "syndicated_avg": 4.9048,
+      "syndicated_count": 128,
+      "syndicated_avg": 4.9062,
       "removed": false
     },
     {
@@ -11319,7 +11359,7 @@
       "model_numbers": [],
       "native_count": 0,
       "native_avg": null,
-      "syndicated_count": 11,
+      "syndicated_count": 12,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11353,9 +11393,9 @@
         "0752113600003"
       ],
       "model_numbers": [],
-      "native_count": 9,
+      "native_count": 10,
       "native_avg": 5,
-      "syndicated_count": 11,
+      "syndicated_count": 12,
       "syndicated_avg": 5,
       "removed": false
     },
@@ -11391,7 +11431,7 @@
       "model_numbers": [],
       "native_count": 2,
       "native_avg": 5,
-      "syndicated_count": 11,
+      "syndicated_count": 12,
       "syndicated_avg": 5,
       "removed": false
     },
