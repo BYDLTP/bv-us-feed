@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-10-24T00:00:00.000Z",
-  "generated_at": "2026-10-25T15:00:15.906Z",
+  "feed_extract_date": "2026-10-25T00:00:00.000Z",
+  "generated_at": "2026-10-26T17:19:32.144Z",
   "product_count": 374,
   "with_upc": 235,
   "with_mpn": 317,
@@ -10927,9 +10927,9 @@
         "0752113508019"
       ],
       "model_numbers": [],
-      "native_count": 5,
+      "native_count": 6,
       "native_avg": 5,
-      "syndicated_count": 5,
+      "syndicated_count": 6,
       "syndicated_avg": 5,
       "removed": false
     },
