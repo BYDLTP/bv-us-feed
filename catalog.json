@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-11-17T00:00:00.000Z",
-  "generated_at": "2026-11-18T19:26:05.481Z",
+  "feed_extract_date": "2026-11-18T00:00:00.000Z",
+  "generated_at": "2026-11-19T19:31:47.014Z",
   "product_count": 374,
   "with_upc": 235,
   "with_mpn": 317,
@@ -603,8 +603,8 @@
       "model_numbers": [],
       "native_count": 133,
       "native_avg": 4.7444,
-      "syndicated_count": 195,
-      "syndicated_avg": 4.7744,
+      "syndicated_count": 196,
+      "syndicated_avg": 4.7755,
       "removed": false
     },
     {
@@ -4312,10 +4312,10 @@
         "0752113081314"
       ],
       "model_numbers": [],
-      "native_count": 62,
-      "native_avg": 4.8387,
-      "syndicated_count": 195,
-      "syndicated_avg": 4.7744,
+      "native_count": 63,
+      "native_avg": 4.8413,
+      "syndicated_count": 196,
+      "syndicated_avg": 4.7755,
       "removed": false
     },
     {
@@ -6011,6 +6011,7 @@
         "752113384101",
         "752113494022",
         "752113494374",
+        "752113304185",
         "752113494367",
         "752113494114",
         "752113484184",
@@ -6019,6 +6020,7 @@
         "752113394186",
         "752113484368",
         "752113484115",
+        "752113374188",
         "752113484023",
         "752113484375",
         "752113494350",
@@ -8112,8 +8114,8 @@
       "model_numbers": [],
       "native_count": 33,
       "native_avg": 4.9697,
-      "syndicated_count": 56,
-      "syndicated_avg": 4.9464,
+      "syndicated_count": 58,
+      "syndicated_avg": 4.931,
       "removed": false
     },
     {
@@ -8142,10 +8144,10 @@
         "0752113504769"
       ],
       "model_numbers": [],
-      "native_count": 14,
-      "native_avg": 4.9286,
-      "syndicated_count": 56,
-      "syndicated_avg": 4.9464,
+      "native_count": 15,
+      "native_avg": 4.8667,
+      "syndicated_count": 58,
+      "syndicated_avg": 4.931,
       "removed": false
     },
     {
@@ -10989,10 +10991,10 @@
         "0752113600096"
       ],
       "model_numbers": [],
-      "native_count": 9,
-      "native_avg": 4.8889,
-      "syndicated_count": 56,
-      "syndicated_avg": 4.9464,
+      "native_count": 10,
+      "native_avg": 4.9,
+      "syndicated_count": 58,
+      "syndicated_avg": 4.931,
       "removed": false
     },
     {
