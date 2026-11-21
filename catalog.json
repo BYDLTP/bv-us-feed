@@ -1,8 +1,8 @@
 {
   "source": "backyarddiscovery",
   "feed_schema": "bazaarvoice SyndicationFeed/5.6",
-  "feed_extract_date": "2026-11-19T00:00:00.000Z",
-  "generated_at": "2026-11-20T19:08:23.656Z",
+  "feed_extract_date": "2026-11-20T00:00:00.000Z",
+  "generated_at": "2026-11-21T18:03:31.572Z",
   "product_count": 374,
   "with_upc": 235,
   "with_mpn": 317,
@@ -6287,8 +6287,8 @@
       "model_numbers": [],
       "native_count": 37,
       "native_avg": 4.9189,
-      "syndicated_count": 47,
-      "syndicated_avg": 4.9149,
+      "syndicated_count": 48,
+      "syndicated_avg": 4.9167,
       "removed": false
     },
     {
@@ -6911,10 +6911,10 @@
         "0752113504295"
       ],
       "model_numbers": [],
-      "native_count": 10,
-      "native_avg": 4.9,
-      "syndicated_count": 47,
-      "syndicated_avg": 4.9149,
+      "native_count": 11,
+      "native_avg": 4.9091,
+      "syndicated_count": 48,
+      "syndicated_avg": 4.9167,
       "removed": false
     },
     {
@@ -7535,8 +7535,8 @@
       ],
       "native_count": 56,
       "native_avg": 4.8571,
-      "syndicated_count": 96,
-      "syndicated_avg": 4.8437,
+      "syndicated_count": 97,
+      "syndicated_avg": 4.8454,
       "removed": false
     },
     {
@@ -7687,10 +7687,10 @@
         "0752113504394"
       ],
       "model_numbers": [],
-      "native_count": 7,
-      "native_avg": 4.7143,
-      "syndicated_count": 96,
-      "syndicated_avg": 4.8438,
+      "native_count": 8,
+      "native_avg": 4.75,
+      "syndicated_count": 97,
+      "syndicated_avg": 4.8454,
       "removed": false
     },
     {
@@ -7954,8 +7954,8 @@
       "model_numbers": [],
       "native_count": 17,
       "native_avg": 4.8824,
-      "syndicated_count": 96,
-      "syndicated_avg": 4.8438,
+      "syndicated_count": 97,
+      "syndicated_avg": 4.8454,
       "removed": false
     },
     {
@@ -8037,8 +8037,8 @@
       "model_numbers": [],
       "native_count": 16,
       "native_avg": 4.8125,
-      "syndicated_count": 96,
-      "syndicated_avg": 4.8438,
+      "syndicated_count": 97,
+      "syndicated_avg": 4.8454,
       "removed": false
     },
     {
